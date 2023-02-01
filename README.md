@@ -1,1 +1,1 @@
-# GoogleLandpage-dev
+# Google Landpage Ödevi
